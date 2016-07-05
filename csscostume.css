@@ -1,0 +1,9 @@
+body{
+	font-style: fantasy;
+	color:yellow;
+	font-size: 15px; 
+	background-image: url("nebula_background.jpg")
+
+
+}
+ul{display:table; margin:0 auto;}
